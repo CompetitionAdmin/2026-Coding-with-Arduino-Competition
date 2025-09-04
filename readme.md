@@ -1,4 +1,4 @@
-# Welcome to the 2026 Coding with Arduino Software Engineering Competition
+# Coding with Arduino Software Engineering Competition
 
 ## Code Submittal (Can be used to share code and changes for duration of the project)
 ## Create Branch
