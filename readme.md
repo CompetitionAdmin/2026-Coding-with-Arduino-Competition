@@ -2,7 +2,7 @@
 
 Use this Git repo to upload your teams code so that our judges can review it prior to the competition.  This can be done by creating a branch and then uploading your code to your newly created branch.  When naming your branch please use this format: {SchoolName}_{TeamName}
 
-For example: <b>MoorePublicSchools_RabidVipers</b>
+For example: <b>AcmePublicSchools_RabidVipers</b>
 
 At the top of your source code please include comments that include your school name, your teachers name, and the names of each student on your team in addition to the grade they are in.
 
@@ -14,11 +14,12 @@ For a tutorial on how to create a branch using GitHub go here: https://docs.gith
 
 ## Quickstart guide to creating a branch
    1. On GitHub, navigate to the main page of the repository '2026-Coding-with-Arduino-Competition'
-   2. From the file tree view on the left, select the  branch dropdown menu, then click View all branches. You can also find the branch dropdown menu at the top of the integrated file editor.
-   3. Click New branch
-   4. Under 'Branch name", type the name of your branch using the <b>'SchoolName_TeamName'</b> format
-   5. Under 'Branch source", choose a source for your branch
-   6. Click <b>Create branch</b>
+      ![Select Repo](images/main.png)]
+   3. From the file tree view on the left, select the  branch dropdown menu, then click View all branches. You can also find the branch dropdown menu at the top of the integrated file editor.
+   4. Click New branch
+   5. Under 'Branch name", type the name of your branch using the <b>'SchoolName_TeamName'</b> format
+   6. Under 'Branch source", choose a source for your branch
+   7. Click <b>Create branch</b>
 
 
 
