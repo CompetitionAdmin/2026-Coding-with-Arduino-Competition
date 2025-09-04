@@ -25,10 +25,14 @@ For a tutorial on how to create a branch using GitHub go here: https://docs.gith
    4. Under 'Branch name", type the name of your branch using the <b>'SchoolName_TeamName'</b> format
       ![Name Branch](images/Step4.png)
       
-   6. Under 'Branch source", choose a source for your branch
+   5. Click on your new branch
       ![Branch Source](images/Step5.png)
       
    6. Click <b>Create branch</b>
+      ![Add Files](images/Step6.png)
+
+   7. Commmit your files to your branch
+      ![Save Files](images/Step7.png)
 
 
 
