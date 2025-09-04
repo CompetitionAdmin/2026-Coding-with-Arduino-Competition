@@ -14,7 +14,7 @@ For a tutorial on how to create a branch using GitHub go here: https://docs.gith
 
 ## Quickstart guide to creating a branch
    1. On GitHub, navigate to the main page of the repository '2026-Coding-with-Arduino-Competition'
-      ![Select Repo](images/main.png)]
+      ![Select Repo](images/Main.png)]
    3. From the file tree view on the left, select the  branch dropdown menu, then click View all branches. You can also find the branch dropdown menu at the top of the integrated file editor.
    4. Click New branch
    5. Under 'Branch name", type the name of your branch using the <b>'SchoolName_TeamName'</b> format
