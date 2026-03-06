@@ -1,7 +1,4 @@
-# Coding with Arduino Software Engineering Competition
+# Mario Kart Demo Application
 
-**IMPORTANT**
-2/23/2026 - It was just brought to our attention that users are not able to create a new branch.  As an alternative please click on the 'Issues' tab in the top menu bar.  From there, click on 'New Issue' in the upper right hand corner of the screen.  Paste your code in the new issue that you created (you will have to be logged into GitHub).  There are some examples already in the Issue list.  Sorry for this inconvenience.
-
-**If you are struggling to upload your code and documentation, print out a paper copy and bring it to the competition**
-
+**Drive like a pro**
+Once started the prompt will say ready set go and lights will turn green then the motorized car will drive the track for 30seconds autonomusly and score will be awarded.
